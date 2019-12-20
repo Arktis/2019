@@ -1,0 +1,20 @@
+Thu Dec 19 23:12:39 CAT 2019 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Thu Dec 19 23:12:39 CAT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016f-2001-62bd-ffffa8ce807e 
+on database directory C:\Users\naujo\Desktop\Library-Management-System-JAVA-master\Database\LMS with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/naujo/GlassFish_Server/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=C:\Users\naujo\GlassFish_Server\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\naujo\Desktop\Library-Management-System-JAVA-master\Database
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Dec 19 23:49:50 CAT 2019: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Dec 19 23:49:50 CAT 2019:
+Shutting down instance a816c00e-016f-2001-62bd-ffffa8ce807e on database directory C:\Users\naujo\Desktop\Library-Management-System-JAVA-master\Database\LMS with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+----------------------------------------------------------------
